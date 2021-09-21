@@ -8,8 +8,8 @@
 //------------------------------------------------
 #define ABET_NUM  (26)
 #define MOJI_MAX  (16+1)
-// #define GBITMASK
-#define GBITMASK_REGEX
+// #define GBITMASK     // 設問1、2
+#define GBITMASK_REGEX  // 設問3
 
 //------------------------------------------------
 //  型定義(Type definition)
