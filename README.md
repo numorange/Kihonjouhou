@@ -1,4 +1,15 @@
-# 基本情報技術者試験問題のソース化
+Kihonjouhou
+====
+
+Coded Fundamental information Technology Engineer Examination（FE） Problem
+
+基本情報技術者試験問題のコード化
+
+# Description
+
+# Requirement
+- gcc 10.3.0
+
 ## 令和元年 秋 午後 問8
 Bitap法を使った文字列検索
 
